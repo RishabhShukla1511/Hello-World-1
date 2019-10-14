@@ -49,6 +49,7 @@
 - [Ramy Fetteha](https://github.com/NoirFLamme)
 - [Randil Tennakoon](https://github.com/randiltennakoon)
 - [Raul Gonzalez Cruz](https://github.com/raulgonzalezcz)
+- [Rishabh Shukla](https://github.com/RishabhShukla1511)
 - [Ricardo Borges](https://github.com/ricardo93borges)
 - [Ritik Gupta](https://github.com/ritik-gupta)
 - [Rosario Galioto](https://github.com/tirannosario)
